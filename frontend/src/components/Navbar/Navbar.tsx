@@ -88,7 +88,7 @@ const Navbar = () => {
                   >
                     <ul className=" space-y-2 ">
                       {DropdownLinks.map((data, index) => (
-                        <li className="">
+                        <li className="" key={index}>
                           <a
                             className="inline-block w-full text-gray-500 dark:hover:text-white duration-200
                             p-2 hover:bg-primary/20 rounded-md font-semibold"
