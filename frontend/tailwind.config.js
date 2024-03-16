@@ -7,7 +7,7 @@ export default {
       colors: {
         primary: "#f42c37",
         secondary: "#f42c37",
-        brandYellow: "fdc62e",
+        brandYellow: "#fdc62e",
         brandGreen: "#2dcc67",
         brandBlue: "#1376f4",
         brandWhite: "#eeeeee",
